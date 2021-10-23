@@ -1,5 +1,5 @@
 ### Hi there, I'm Mahan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-- 📚 I'm currently studing at Amirkabir University of Technology
+- 📚 I'm currently studying at Amirkabir University of Technology
 - 📫 You can reach me by my gmail
 <br/> 
 

@@ -22,5 +22,4 @@ stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2000mahan&
 ![Top 
 Langs](https://github-readme-stats.vercel.app/api?username=2000mahan&show_icons=true&include_all_commits=true&theme=material-palenight)
 ![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2000mahan&theme=material-palenight)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2000mahan&theme=material-palenight)(https://github-readme-stats.vercel.app/api?username=2000mahan&show_icons=true&theme=material-palenight&hide_border=true)
 
